@@ -7,7 +7,7 @@ COVID-19 Current Day Tracker built in Cordova
 ## Platforms
 - ios
 - android 
--browser
+- browser
 
 ## Plugins used
 - cordova-plugin-geolocation
