@@ -1,0 +1,2 @@
+ACCESS_TOKEN = "pk.eyJ1IjoibHVjYXNrb2hvcnN0IiwiYSI6ImNrMmc4ZzR1ajBzYmgzam1vbzBscHo1ajIifQ.mRP73FdC3Fhwe6QShpZhQw"
+KEY = "e6ae020d39d84a7db3a7898326658139";
