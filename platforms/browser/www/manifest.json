@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Covid-19 Tracker",
+  "short_name": "Covid-19 Tracker",
+  "version": "com.project3.covid19",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Lucas Kohorst",
+  "icons": [],
+  "start_url": "index.html"
+}
