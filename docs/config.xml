@@ -19,5 +19,5 @@
         <string>need location access to find things nearby</string>
     </edit-config>
     <preference name="ios-statusbarstyle" value="black-opaque" />
-    <preference name="SplashScreen" value="www/img/loading.png" />
+    <preference name="SplashScreen" value="img/loading.png" />
 </widget>
